@@ -1,0 +1,26 @@
+.headerMenu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+}
+
+.headerMenu li {
+  margin: 0px 20px;
+}
+/* .linkTag {
+  text-decoration: none;
+} */
+
+.headerMenu li a {
+  text-decoration: none;
+  color: white;
+}
+
+.drawerMenu li {
+  margin-top: 20px;
+}
+
+.drawerMenu li a {
+  text-decoration: none;
+}
